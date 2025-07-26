@@ -3,7 +3,7 @@
 
 ## 👨‍💻 Sobre mí
 - 💼 Actualmente trabajando en LinkTIC
-- 📚 Aprendiendo: Next.js, Clkean arquitecture y Docker
+- 📚 Aprendiendo: Next.js, Clean arquitecture, patters desing y Docker
 - 🎯 2025 Goals: Contribuir a proyectos open source y mejorar mis habilidades en arquitectura de software
 
 ## 🛠️ Tecnologías y herramientas
