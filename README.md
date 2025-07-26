@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Michael Garcia  
+🚀 Desarrollador Full Stack | 🌍 Bogotá - Colombia  
 
-<!--
-**michaelgarciast/michaelgarciast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mí
+Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras. Me especializo en el desarrollo full stack con experiencia en tecnologías modernas como React, Node.js, Express y bases de datos. Me encanta enfrentar desafíos que me permitan crecer profesionalmente.
 
-Here are some ideas to get you started:
+- 💼 Actualmente trabajando en LinkTIC
+- 📚 Aprendiendo: Next.js y TypeScript, Docker
+- 🎯 2025 Goals: Contribuir a proyectos open source y mejorar mis habilidades en arquitectura de software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Postgress](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=Postgress&logoColor=white)
+![PHP](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=php&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=tailwindcss)
+![BitBucket](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=bitbucket&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## 📈 Estadísticas de GitHub
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=michaelgarciast&show_icons=true&theme=radical)
+
+## 📫 ¿Cómo contactarme?
+- [LinkedIn](https://www.linkedin.com/in/michaelgarcia-dev)
+- [Email](mailto:michaelgarciast88@gmail.com)
