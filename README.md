@@ -2,9 +2,8 @@
 🚀 Desarrollador Full Stack | 🌍 Bogotá - Colombia  
 
 ## 👨‍💻 Sobre mí
-Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras. Me especializado en desarrollo full stack con experiencia en tecnologías modernas como React, Node.js y bases de datos.
 - 💼 Actualmente trabajando en LinkTIC
-- 📚 Aprendiendo: Next.js y TypeScript, Docker
+- 📚 Aprendiendo: Next.js, Clkean arquitecture y Docker
 - 🎯 2025 Goals: Contribuir a proyectos open source y mejorar mis habilidades en arquitectura de software
 
 ## 🛠️ Tecnologías y herramientas
