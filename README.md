@@ -3,7 +3,7 @@
 
 ## 👨‍💻 Sobre mí
 - 💼 Actualmente trabajando en LinkTIC
-- 📚 Aprendiendo: Next.js, Clean arquitecture, patters desing y Docker
+- 📚 Aprendiendo:NestJs, Clean arquitecture, patters desing y Docker
 - 🎯 2025 Goals: Contribuir a proyectos open source y mejorar mis habilidades en arquitectura de software
 
 ## 🛠️ Tecnologías y herramientas
@@ -12,7 +12,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Postgress](https://img.shields.io/badge/-PostgressSQL-4479A1?style=flat-square&logo=Postgress&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-E34F26?style=flat-square&logo=php&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1572B6?style=flat-square&logo=tailwindcss)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
