@@ -14,7 +14,6 @@
 ![Postgress](https://img.shields.io/badge/-PostgressSQL-4479A1?style=flat-square&logo=Postgress&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-E34F26?style=flat-square&logo=php&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1572B6?style=flat-square&logo=tailwindcss)
-![BitBucket](https://img.shields.io/badge/-BitBucket-F05032?style=flat-square&logo=bitbucket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 📈 Estadísticas de GitHub
