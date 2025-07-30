@@ -13,7 +13,9 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Postgress](https://img.shields.io/badge/-PostgressSQL-4479A1?style=flat-square&logo=Postgress&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1572B6?style=flat-square&logo=tailwindcss)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1572B6?style=flat-square&logo=postgresql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Dockewr-1572B6?style=flat-square&logo=docker)
 
 ## 📈 Estadísticas de GitHub
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=michaelgarciast&show_icons=true&theme=radical)
