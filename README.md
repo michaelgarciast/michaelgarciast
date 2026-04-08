@@ -57,5 +57,5 @@
 ---
 
 <div align="center">
-  <sub>⚡ "Clean code always looks like it was written by someone who cares." — Robert C. Martin</sub>
+  <sub>⚡ "Big opportunities come from solving big problems." — Sundar Pichai, CEO of Google</sub>
 </div>
