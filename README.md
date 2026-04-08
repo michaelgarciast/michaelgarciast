@@ -1,12 +1,4 @@
-<div align="center">
-
-```bash
-$ whoami → Senior Frontend Developer | 7+ años | Bogotá, Colombia
-```
-
-</div>
-
-# ¡Hola! 👋 Soy Michael Garcia  
+# ¡Hola! 👋 Soy Michael Garcia  Senior Frontend Developer - Bogotá - Colombia
 
 ---
 
@@ -14,7 +6,7 @@ $ whoami → Senior Frontend Developer | 7+ años | Bogotá, Colombia
 
 | Métrica | Resultado |
 |---|---|
-| 🚀 Mejora de rendimiento | **REACT** via refactorización y componentización avanzada |
+| 🚀 Mejora de rendimiento | **Frontend** refactorización y componentización avanzada |
 | ⏱️ Reducción en tiempos de entrega | **Docker** optimizando pipelines CI/CD |
 | 🏢 Sectores atendidos | Público y privado — proyectos end-to-end |
 
