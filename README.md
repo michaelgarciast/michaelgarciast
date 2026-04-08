@@ -49,18 +49,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelgarciast&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgarciast&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Contacto
 
