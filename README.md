@@ -1,4 +1,5 @@
-# ¡Hola! 👋 Soy Michael Garcia  Senior Frontend Developer - Bogotá - Colombia
+# ¡Hola! 👋 Soy Michael Garcia  
+👾 Senior Frontend Developer | 🌍 Bogotá - Colombia  
 
 ---
 
